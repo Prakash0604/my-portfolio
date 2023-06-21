@@ -15,12 +15,13 @@
         width: 100%;
         margin-top: 4rem;
         gap: 4rem;
-        color: white;
+        color: var(--orange);
 }
 
 .f-icons {
         display: flex;
         gap: 2rem;
+
 }
 
 @media screen and (max-width: 480px) {
